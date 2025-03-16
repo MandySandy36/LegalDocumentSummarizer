@@ -1,0 +1,2 @@
+# LegalDocumentSummarizer
+ Project under Hackathon
